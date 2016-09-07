@@ -1,5 +1,5 @@
 # 2048
-A version of the popular game, now with best time tracking. Based on Gabriele Cirulli's [codebase](https://github.com/gabrielecirulli/2048)
+A version of the popular game, now with best time tracking. Based on Gabriele Cirulli's [codebase](https://github.com/gabrielecirulli/2048).
 
 [Enjoy it here!](http://perigk.github.io/Timed-2048/)
 
